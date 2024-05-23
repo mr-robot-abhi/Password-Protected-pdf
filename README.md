@@ -1,3 +1,6 @@
+Have a pdf file saved in the same folder as the source-code.py before executing the file.
+Name the pdf sample.pdf. After executing the program, a copy of the same pdf is generated with a password provided as the input and saved as protected.pdf. 
+
 Here's a step-by-step explanation:
 
 Importing Required Modules:
